@@ -8,8 +8,8 @@ The Tailwind CSS Design project showcases a responsive web design utilizing Tail
 <P>*Modern Design: Implements contemporary design principles for a clean and professional appearance.</P>
 
 <h6>Customization:</h6>
-<P>HTML Structure: Modify the index.html file to adjust content and layout as needed.</P>
-<P>Tailwind Configuration: Edit the tailwind.config.js file to customize the default Tailwind CSS settings.</P>
-<P>Styles: Update the src/input.css file to include additional styles or overrides.</P>
+<P>*HTML Structure: Modify the index.html file to adjust content and layout as needed.</P>
+<P>*Tailwind Configuration: Edit the tailwind.config.js file to customize the default Tailwind CSS settings.</P>
+<P>*Styles: Update the src/input.css file to include additional styles or overrides.</P>
 
 Live Demo:https://mahmoudhelmy74.github.io/tailwind-css/
